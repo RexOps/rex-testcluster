@@ -63,3 +63,8 @@ vms:
       password: box
       auth_type: pass
 ```
+
+Run the tests:
+```
+prove -r t
+```
